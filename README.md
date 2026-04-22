@@ -15,7 +15,7 @@
 - MySQL / PostgreSQL
 - Data Cleaning, Web Scraping
 - OpenAI API Integration
-- Chatbot
+- Chatbot Creation
 
 ## 📫 Contact
 - Email: zhranibraim@email.com
